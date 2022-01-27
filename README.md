@@ -19,7 +19,7 @@ After form submission, input is stored in a session variable and the user is red
 * 'fizzbuzz' table contains all submissions where 'integer' is divisible by 3 and 5
 * 'ungrouped' table contains all submissions that are not divisible by 3 or 5
 
-There is a counter in the header for each table count.
+There is a counter in the header that shows the count for each category.
 
 ### Installing
 
