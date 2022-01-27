@@ -4,14 +4,20 @@ FizzBuzz Sample Website
 
 ## Description
 
-Website home page has a form that accepts the following input: Name, Gender, Marital Status, Date of Birth, An Arbitrary Integer.
+Website home page has a form that accepts the following input: 
+
+* Name
+* Gender
+* Marital Status
+* Date of Birth
+* An Arbitrary Integer
 
 After form submission, input is stored in a session variable and the user is redirected to a results page. All form submissions in current session are visible on results page.  Submissions are grouped according to 'integer' input: 
 
-'fizz' table contains all submissions where 'integer' is divisible by 3
-'buzz' table contains all submissions where 'integer' is divisible by 5
-'fizzbuzz' table contains all submissions where 'integer' is divisible by 3 and 5
-'ungrouped' table contains all submissions that are not divisible by 3 or 5
+* 'fizz' table contains all submissions where 'integer' is divisible by 3
+* 'buzz' table contains all submissions where 'integer' is divisible by 5
+* 'fizzbuzz' table contains all submissions where 'integer' is divisible by 3 and 5
+* 'ungrouped' table contains all submissions that are not divisible by 3 or 5
 
 There is a counter in the header for each table count.
 
