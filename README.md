@@ -105,7 +105,7 @@ Sara Eames (https://www.linkedin.com/in/sara-eames-sweeney)
 
 * 0.2
     * Added bee animation to index.html page
-    * Removed redundant javascript 
+    * Removed redundant jquery code
 
 * 0.1
     * Initial Release
