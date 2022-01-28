@@ -33,11 +33,69 @@ There is a counter in the header that shows the count for each category.
 * View results on results.html page where you will be redirected after form submission
 * Click on 'add' button or logo in header to get back to the home page to fill out another form
 
-## Help
+### Test cases
 
-Form validation will be with next release.  
+Case #1 (FIZZ)
+* Name: Joe Smith
+* Gender: Male
+* Marital Status: Married
+* Date of Birth: 02/17/2002
+* An Arbitrary Integer: 9
+
+Case #2 (FIZZ)
+* Name: Mary Smith
+* Gender: Female
+* Marital Status: Single
+* Date of Birth: 05/08/1984
+* An Arbitrary Integer: 6
+
+Case #3 (BUZZ)
+* Name: Alvin Smith
+* Gender: Male
+* Marital Status: Widowed
+* Date of Birth: 04/15/2000
+* An Arbitrary Integer: 10
+
+Case #4 (BUZZ)
+* Name: Tammi Smith
+* Gender: Female
+* Marital Status: Married
+* Date of Birth: 08/18/1995
+* An Arbitrary Integer: 25
+
+Case #5 (FIZZBUZZ)
+* Name: Robert Smith
+* Gender: Male
+* Marital Status: Divorced
+* Date of Birth: 05/04/1990
+* An Arbitrary Integer: 30
+
+Case #6 (FIZZBUZZ)
+* Name: Holly Smith
+* Gender: Female
+* Marital Status: Married
+* Date of Birth: 12/05/1989
+* An Arbitrary Integer: 15
+
+Case #7 (UNGROUPED)
+* Name: David Smith
+* Gender: Male
+* Marital Status: Separated
+* Date of Birth: 11/15/1999
+* An Arbitrary Integer: 13
+
+Case #8 (UNGROUPED)
+* Name: Barb Smith
+* Gender: Female
+* Marital Status: Married
+* Date of Birth: 01/20/1987
+* An Arbitrary Integer: 17
+
+## Help
+  
 All fields are currently required and a number is required for the 'integer' field.  
 Form will not submit unless these requirements are met.
+Error messages will be added in a future release.
 
 ## Authors
 
