@@ -103,6 +103,10 @@ Sara Eames (https://www.linkedin.com/in/sara-eames-sweeney)
 
 ## Version History
 
+* 0.2
+    * Added bee animation to index.html page
+    * Removed redundant javascript 
+
 * 0.1
     * Initial Release
 
